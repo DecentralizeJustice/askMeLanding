@@ -209,7 +209,7 @@ document.addEventListener('DOMContentLoaded', function() {
                   <div class="py-9 md:max-w-md">
       <span class="inline-block mb-5 text-sm text-blue-500 font-bold uppercase tracking-widest">Pricing</span>
                     <h2 class="font-heading mb-4 text-4xl text-gray-900 font-black tracking-tight">Simple Pricing</h2>
-                    <p class="mb-8 text-gray-700 font-bold">You pay me for whateve value you think I provided you. You are required to place a 5 USD XMR deposit to </p>
+                    <p class="mb-8 text-gray-700 font-bold">You pay me for whatever value you think I provided you. You are required to place a 5 USD XMR deposit to ask a question. This deposit will be returned to you. </p>
                     <div class="flex flex-wrap -m-2">
                       
                       <div class="w-auto p-2">
